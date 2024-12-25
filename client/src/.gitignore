@@ -1,0 +1,19 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build files (client-side)
+client/build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore other specific files or folders
+server/logs/
+client/temp/
